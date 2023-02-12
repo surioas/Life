@@ -1,0 +1,15 @@
+1).What Do you know ?         Cprogramming , Linux System programming basics,Zephyr rtos application development..
+
+2).How do you communicate through uart with the controllers..
+ 	
+3).Tell me about uart system call..
+
+4). What is initramfs         
+          Ans: Initramfs is used as the first root filesystem that your machine has access to. It is used for mounting the real rootfs which has all your data.
+5). Write a code for memory allocation in c  Ans : char *p = (char *) malloc(sizeof(char));
+
+6). Difference Between malloc() and calloc() Ans: Using mmap we call the kernal to give some memory 
+							brk - is used to change the size of the memory that we are using alredy.. 
+
+						using malloc takes the memory without initilizing , but calloc initilizes the zero buffer..
+
