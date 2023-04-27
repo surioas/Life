@@ -12,4 +12,6 @@
 							brk - is used to change the size of the memory that we are using alredy.. 
 
 						using malloc takes the memory without initilizing , but calloc initilizes the zero buffer..
+7).Tick is the smallest measurable unit to whom for what ..
 
+8).What is interrupt controller  and GIC
